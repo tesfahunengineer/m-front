@@ -38,7 +38,7 @@ const Home = () => {
             transition={{ ease: "easeInOut", duration: 0.9, delay: 0.2 }}
             className="font-serif font-medium mt-3 text-lg md:text-xl text-gray-700 dark:text-gray-300"
           >
-            Welcome! this is yekassa general contractor official website with arki digital software embedded in it, You can download
+            Welcome! this is yekassa general contractor official website with arki digital software, You can download
             the document below and view our service and products, And you can contact with us.Feels
             Free!!
           </motion.p>
